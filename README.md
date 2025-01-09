@@ -1,17 +1,15 @@
-# flutter_profile_app
+# 플러터 프로필 앱 구현
 
-A new Flutter project.
+날짜: 2025.01.08 - 
 
-## Getting Started
+## 플러터 공부용
 
-This project is a starting point for a Flutter application.
+목적 : 플러터를 사용하여 프로필 정보를 보여주는 앱을 구현한다.
 
-A few resources to get you started if this is your first Flutter project:
+사용한 프로그램 : Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 학습한 내용
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_profile_app
+- MaterialColor 구현
+- ThemeData
+- 페이지 분리

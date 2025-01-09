@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
+import '../components/profile_buttons.dart';
 import '../components/profile_count_info.dart';
 import '../components/profile_header.dart';
+import '../components/profile_tab.dart';
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});
@@ -27,8 +29,8 @@ class ProfilePage extends StatelessWidget {
           const SizedBox(height: 20),
           ProfileCountInfo(),
           const SizedBox(height: 20),
-          // 프로필 버튼 2개
-          // 탭 바
+          ProfileButtons(),
+          Expanded(child: ProfileTab()),
         ],
       ),
     ));

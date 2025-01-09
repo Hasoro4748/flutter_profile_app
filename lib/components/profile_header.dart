@@ -20,7 +20,7 @@ class ProfileHeader extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          '홍길동',
+          '강중원',
           style: TextStyle(fontSize: 25, fontWeight: FontWeight.w700),
         ),
         Text(
